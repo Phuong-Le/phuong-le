@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi and welcome. 
+My name is Phuong. I'm Vietnamese. I am a PhD student at the Wellcome Sanger Insitute and Cambridge University. Before Sanger, I graduated from the Australian National University.
 
 <!--
 **Phuong-Le/phuong-le** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
